@@ -1,3 +1,5 @@
+package algorithm.twosum;
+
 import java.util.HashMap;
 
 class Solution {
@@ -34,7 +36,6 @@ class Solution {
             }
         }
         return res;
-
     }
 
     public static void main(String[] args) {
